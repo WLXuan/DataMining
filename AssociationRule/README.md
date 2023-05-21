@@ -1,8 +1,8 @@
-# DataMining
+## 基于文本的推荐系统
 
 所选数据集：
 
-Alzheimer Disease and Healthy Aging Data in US
+100个用户以及与其对应的物品
 
-Movies Dataset from Pirated Sites
+
 
